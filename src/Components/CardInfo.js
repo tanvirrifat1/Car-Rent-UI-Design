@@ -12,9 +12,9 @@ const CardInfo = () => {
     return (
         <div>
             <div className='mt-10'>
-                <div className="flex justify-end ">
+                <div className="flex justify-end relative">
                     <input type="text" placeholder="Type here" className="input input-bordered shadow-2xl w-full max-w-xs" />
-                    <div className='text-4xl'><CiSearch></CiSearch></div>
+                    <div className='text-4xl absolute mr-2 top-1'><CiSearch></CiSearch></div>
                 </div>
             </div>
             <div>

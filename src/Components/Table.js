@@ -46,7 +46,7 @@ const Table = () => {
                                 <span className=" text-xl">$6465</span>
                             </td>
                             <div className='flex mt-1'>
-                                <input type="radio" name="radio-1" className="radio mt-5 bg-red-500" checked />
+                                <input type="radio" name="radio-1" className="radio mt-5 bg-green-500" checked />
                                 <td className='text-xl'>Completed</td>
                             </div>
                             <th>
@@ -75,7 +75,7 @@ const Table = () => {
                                 <span className=" text-xl">$5665</span>
                             </td>
                             <div className='flex mt-1'>
-                                <input type="radio" name="radio-5" className="radio mt-5 bg-emerald-500" checked />
+                                <input type="radio" name="radio-1" className="radio mt-5 bg-yellow-500" checked />
                                 <td className='text-xl'>Pending</td>
                             </div>
                             <th>

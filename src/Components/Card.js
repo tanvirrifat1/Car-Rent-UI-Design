@@ -19,7 +19,7 @@ const Card = () => {
                         <p className='text-4xl'>$9460.00</p>
                         <p className='text-red-600'>1.5% <FaArrowDown className='-mt-5 '></FaArrowDown></p>
                     </div>
-                    <p className='mr-9'>Compared to $9940 yesterday</p>
+                    <p className='mr-8 py-2'>Compared to $5240 yesterday</p>
                     <div className='flex justify-between font-semibold'>
                         <p>Last Week Income</p>
                         <p>$25415.00</p>
@@ -37,7 +37,7 @@ const Card = () => {
                         <p className='text-4xl mr-8'>$5660.00</p>
                         <p className='text-green-500'>2.5% <FaArrowUp className='-mt-5 '></FaArrowUp></p>
                     </div>
-                    <p className='mr-10'>Compared to $5240 yesterday</p>
+                    <p className='mr-9 py-2'>Compared to $5240 yesterday</p>
                     <div className='flex justify-between font-semibold'>
                         <p>Last Week expences</p>
                         <p>$25415.00</p>
